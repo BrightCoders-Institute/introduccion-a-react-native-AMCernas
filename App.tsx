@@ -9,7 +9,9 @@ import React, {Component} from 'react';
 import {Text, View} from 'react-native';
 
 class HelloWorldApp extends Component {
+
   render() {
+  const name = 'Arnold';
     return (
       <View
         style={{
@@ -17,7 +19,9 @@ class HelloWorldApp extends Component {
           justifyContent: 'center',
           alignItems: 'center',
         }}>
-        <Text style={{ fontSize: 50 }}>Hello, world!</Text>
+        <Text style={{ fontSize: 50 }}>Hello, world!, my name is {name}</Text>
+
+        <Text>What´s your name?</Text>
       </View>
     );
   }
