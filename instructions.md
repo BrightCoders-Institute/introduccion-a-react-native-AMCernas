@@ -69,7 +69,7 @@ Sigue estas instrucciones paso a paso para desarrollar tus habilidades en React 
 # Indicadores de cumplimiento
 
 1. **Instalación y configuración del ambiente de trabajo para programación con React Native:**
-   - [ ] He completado la instalación de las herramientas necesarias para desarrollar aplicaciones con React Native.
+   - [ * ] He completado la instalación de las herramientas necesarias para desarrollar aplicaciones con React Native.
    - [ ] He configurado correctamente mi entorno de desarrollo según las mejores prácticas y requisitos técnicos.
 
 2. **Comprensión de la semántica y sintaxis de React Native:**
